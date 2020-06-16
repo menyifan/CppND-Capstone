@@ -1,3 +1,0 @@
-/Users/yifanmen/myCode/CppND/CppND-Capstone/build/CMakeFiles/rebuild_cache.dir
-/Users/yifanmen/myCode/CppND/CppND-Capstone/build/CMakeFiles/edit_cache.dir
-/Users/yifanmen/myCode/CppND/CppND-Capstone/build/CMakeFiles/SnakeGame.dir
