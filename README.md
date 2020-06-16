@@ -32,11 +32,11 @@ This is the Capstone project in the [Udacity C++ Nanodegree Program](https://www
 
 ## Rubrics Covered
 
-1. Loops, Functions, I/O
-  * The project demonstrates an understanding of C++ functions and control structures: A variety of control structures are used in the project; the project code is clearly organized into functions.
-  * The project accepts user input and processes the input: The project accepts input from a user as part of the necessary operation of the program.
-2. Object Oriented Programming
-  * The project uses Object Oriented Programming techniques: The project code is organized into classes with class attributes to hold the data, and class methods to perform tasks.
-  * Classes use appropriate access specifiers for class members: All class data members are explicitly specified as public, protected, or private.
-  * Classes abstract implementation details from their interfaces: All class member functions document their effects, either through function names, comments, or formal documentation. Member functions do not change program state in undocumented ways.
-  * Classes encapsulate behavior: Appropriate data and functions are grouped into classes. Member data that is subject to an invariant is hidden from the user. State is accessed via member functions.
+1. *Loops, Functions, I/O*
+  * **The project demonstrates an understanding of C++ functions and control structures**: A variety of control structures are used in the project; the project code is clearly organized into functions.
+  * **The project accepts user input and processes the input**: The project accepts input from a user as part of the necessary operation of the program.
+2. *Object Oriented Programming*
+  * **The project uses Object Oriented Programming techniques**: The project code is organized into classes with class attributes to hold the data, and class methods to perform tasks.
+  * **Classes use appropriate access specifiers for class members**: All class data members are explicitly specified as public, protected, or private.
+  * **Classes abstract implementation details from their interfaces**: All class member functions document their effects, either through function names, comments, or formal documentation. Member functions do not change program state in undocumented ways.
+  * **Classes encapsulate behavior**: Appropriate data and functions are grouped into classes. Member data that is subject to an invariant is hidden from the user. State is accessed via member functions.
