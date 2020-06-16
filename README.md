@@ -33,10 +33,10 @@ This is the Capstone project in the [Udacity C++ Nanodegree Program](https://www
 ## Rubrics Covered
 
 1. *Loops, Functions, I/O*
-  * **The project demonstrates an understanding of C++ functions and control structures**: A variety of control structures are used in the project; the project code is clearly organized into functions.(e.g. while loop in line 22-50 in game.cpp)
-  * **The project accepts user input and processes the input**: The project accepts input from a user as part of the necessary operation of the program. (e.g. SDL key function in line 14-40 in controller.cpp)
+  * **The project demonstrates an understanding of C++ functions and control structures**: A variety of control structures are used in the project; the project code is clearly organized into functions.(**e.g. while loop in line 22-50 in game.cpp**)
+  * **The project accepts user input and processes the input**: The project accepts input from a user as part of the necessary operation of the program. (**e.g. SDL key function in line 14-40 in controller.cpp**)
 2. *Object Oriented Programming*
-  * **The project uses Object Oriented Programming techniques**: The project code is organized into classes with class attributes to hold the data, and class methods to perform tasks. (e.g. Snake class defined in line 7-38 in snake.h)
-  * **Classes use appropriate access specifiers for class members**: All class data members are explicitly specified as public, protected, or private. (e.g. line 8 and line 31 in snake.h)
-  * **Classes abstract implementation details from their interfaces**: All class member functions document their effects, either through function names, comments, or formal documentation. Member functions do not change program state in undocumented ways. (e.g. line 15, 16, 29, 30 in game.h)
-  * **Classes encapsulate behavior**: Appropriate data and functions are grouped into classes. Member data that is subject to an invariant is hidden from the user. State is accessed via member functions. (e.g. line 15, 27 in game.h)
+  * **The project uses Object Oriented Programming techniques**: The project code is organized into classes with class attributes to hold the data, and class methods to perform tasks. (**e.g. Snake class defined in line 7-38 in snake.h**)
+  * **Classes use appropriate access specifiers for class members**: All class data members are explicitly specified as public, protected, or private. (**e.g. line 8 and line 31 in snake.h**)
+  * **Classes abstract implementation details from their interfaces**: All class member functions document their effects, either through function names, comments, or formal documentation. Member functions do not change program state in undocumented ways. (**e.g. line 15, 16, 29, 30 in game.h**)
+  * **Classes encapsulate behavior**: Appropriate data and functions are grouped into classes. Member data that is subject to an invariant is hidden from the user. State is accessed via member functions. (**e.g. line 15, 27 in game.h**)
